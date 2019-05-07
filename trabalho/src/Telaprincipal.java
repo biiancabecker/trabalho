@@ -90,12 +90,12 @@ public class Telaprincipal extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-Manutencaodealuno janela = new Manutencaodealuno(this, true);
+Manutencaodecidade janela = new Manutencaodecidade(this, true);
 janela.setVisible(true);        // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-Manutencaodecidade janela = new Manutencaodecidade(this, true);
+Manutencaodealuno janela = new Manutencaodealuno(this, true);
 janela.setVisible(true);        // TODO add your handling code here:
     }//GEN-LAST:event_jButton2ActionPerformed
 
